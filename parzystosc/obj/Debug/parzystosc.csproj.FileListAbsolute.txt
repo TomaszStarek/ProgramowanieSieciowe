@@ -1,0 +1,5 @@
+D:\TomaszStarekPS\RiderProjects\parzystosc\parzystosc\bin\Debug\parzystosc.exe
+D:\TomaszStarekPS\RiderProjects\parzystosc\parzystosc\bin\Debug\parzystosc.pdb
+D:\TomaszStarekPS\RiderProjects\parzystosc\parzystosc\obj\Debug\parzystosc.csprojResolveAssemblyReference.cache
+D:\TomaszStarekPS\RiderProjects\parzystosc\parzystosc\obj\Debug\parzystosc.exe
+D:\TomaszStarekPS\RiderProjects\parzystosc\parzystosc\obj\Debug\parzystosc.pdb
