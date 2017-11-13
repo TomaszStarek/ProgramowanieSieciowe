@@ -1,0 +1,5 @@
+D:\TomaszStarekPS\RiderProjects\hello\hello\bin\Debug\hello.exe
+D:\TomaszStarekPS\RiderProjects\hello\hello\bin\Debug\hello.pdb
+D:\TomaszStarekPS\RiderProjects\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+D:\TomaszStarekPS\RiderProjects\hello\hello\obj\Debug\hello.exe
+D:\TomaszStarekPS\RiderProjects\hello\hello\obj\Debug\hello.pdb
